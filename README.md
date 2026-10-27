@@ -201,10 +201,7 @@ All material in this repository is provided **for research and educational purpo
 The project exists to document prompt-level instruction behavior, instruction conflicts, persona framing, model configuration, and related LLM security concepts. This material may also help developers understand and harden systems against prompt injection and instruction manipulation.
 
 The maintainers do not endorse unlawful, abusive, or harmful use of this repository.
-
-Model providers may prohibit certain uses of these prompts under their terms of service. Users are responsible for understanding and complying with the rules, policies, and laws that apply to the systems they use.
-
----
+囚956-
 
 <div align="center">
 
